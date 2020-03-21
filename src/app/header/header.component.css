@@ -1,0 +1,6 @@
+.header-container{
+  display: inline-flex;
+  background-color: black;
+  color: white;
+  height: 50px;
+}
