@@ -1,6 +1,4 @@
-.header-container{
-  display: inline-flex;
-  background-color: black;
-  color: white;
-  height: 50px;
+.fill-remaining-space{
+  flex: 1 1 auto;
 }
+
